@@ -1,0 +1,5 @@
+2025-04-21 13:58:16,540 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2025-04-21 13:58:16,676 - db_helper - INFO - fetch_expense_summary called with start: {start_date}, end: {end_date}
+2025-04-29 14:17:07,492 - db_helper - INFO - fetch_expenses_for_date called with {expense_date}
+2025-04-29 14:20:15,242 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-20
+2025-04-29 14:20:29,364 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-20
